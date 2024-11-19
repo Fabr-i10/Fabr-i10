@@ -18,5 +18,4 @@ En mi repositorio, encontrarás proyectos que reflejan mi interés en resolver p
 ## Conéctate conmigo  
 Si quieres colaborar o simplemente charlar, ¡no dudes en contactarme! 😊  
 - 📫 *Email*: [fabricio20arg@gmail.com]  
-- 🌐 *LinkedIn*: [www.linkedin.com/in/
-fabricio-alvarez-rodríguez-88655b323]
+- 🌐 *LinkedIn*: [www.linkedin.com/in/fabricio-alvarez-rodríguez-88655b323]
