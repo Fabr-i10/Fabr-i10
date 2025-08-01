@@ -1,21 +1,25 @@
-# 👋 Hola, soy Fabricio Alvarez
+# 👋 ¡Hola! Soy Fabricio Alvarez
 
-¡Bienvenido a mi perfil de GitHub!  
+¡Bienvenido a mi perfil de GitHub!
 
-## Sobre mí  
-- 🎵 Me encanta la música, es una gran fuente de inspiración en mi vida.  
-- 💻 Tengo 23 años y soy apasionado por la tecnología y la programación.  
-- 🚀 Mis lenguajes favoritos son *C++* y *Java*, y disfruto creando proyectos desafiantes con ellos.
+## 🧠 Sobre mí  
+- 🎵 La música es una gran fuente de inspiración para mí.  
+- 💻 Tengo 24 años y soy un entusiasta de la tecnología y el desarrollo de software.  
+- 🚀 Me interesa especialmente el desarrollo backend y la creación de aplicaciones web funcionales.
 
-## Mis habilidades  
-- *C++*: Desarrollo de sistemas eficientes y resolución de problemas complejos.  
-- *Java*: Creación de aplicaciones robustas y orientadas a objetos.  
-- Experiencia con estructuras de datos, algoritmos y diseño de software.  
+## 🛠️ Habilidades técnicas  
+- **Go**: Desarrollo de APIs y lógica backend.  
+- **Angular + TypeScript**: Construcción de interfaces web conectadas a servicios backend.  
+- **HTML5, CSS3, Bootstrap**: Creación de interfaces responsivas y modernas.  
+- **MySQL**: Manejo de bases de datos relacionales para aplicaciones web.  
+- Conocimientos básicos de **Java** y estructuras de datos.
 
-## ¿Qué encontrarás aquí?  
-En mi repositorio, encontrarás proyectos que reflejan mi interés en resolver problemas reales y aprender nuevas tecnologías.
+## 📂 ¿Qué encontrarás aquí?  
+Proyectos donde aplico lo aprendido en el desarrollo de APIs, aplicaciones web y estructuras organizadas de código. Me gusta seguir aprendiendo y enfrentar nuevos retos en programación.
 
-## Conéctate conmigo  
-Si quieres colaborar o simplemente charlar, ¡no dudes en contactarme! 😊  
-- 📫 *Email*: [fabricio20arg@gmail.com]  
-- 🌐 *LinkedIn*: [www.linkedin.com/in/fabricio-alvarez-rodríguez-88655b323]
+## 🤝 Conectemos  
+Si te interesa colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡escribime!
+
+- 📫 **Email**: [fabricio20arg@gmail.com](mailto:fabricio20arg@gmail.com)  
+- 🌐 **LinkedIn**: [linkedin.com/in/fabricio-alvarez-rodríguez-88655b323](https://www.linkedin.com/in/fabricio-alvarez-rodr%C3%ADguez-88655b323)
+
