@@ -12,7 +12,6 @@
 - **Angular + TypeScript**: Construcción de interfaces web conectadas a servicios backend.  
 - **HTML5, CSS3, Bootstrap**: Creación de interfaces responsivas y modernas.  
 - **MySQL**: Manejo de bases de datos relacionales para aplicaciones web.  
-- Conocimientos básicos de **Java** y estructuras de datos.
 
 ## 📂 ¿Qué encontrarás aquí?  
 Proyectos donde aplico lo aprendido en el desarrollo de APIs, aplicaciones web y estructuras organizadas de código. Me gusta seguir aprendiendo y enfrentar nuevos retos en programación.
