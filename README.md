@@ -1,24 +1,40 @@
-# 👋 ¡Hola! Soy Fabricio Alvarez
+👋 Hi! I'm Fabricio Alvarez
+Welcome to my GitHub profile!
 
-¡Bienvenido a mi perfil de GitHub!
+🧠 About me
+🎵 Music is a big source of inspiration for me.
+💻 I'm 24 years old and passionate about technology and software development.
+🚀 I'm especially interested in backend development and building functional, production-ready web applications.
+🛠️ Tech stack
+Languages
+Go TypeScript JavaScript HTML5 CSS3
 
-## 🧠 Sobre mí  
-- 🎵 La música es una gran fuente de inspiración para mí.  
-- 💻 Tengo 24 años y soy un entusiasta de la tecnología y el desarrollo de software.  
-- 🚀 Me interesa especialmente el desarrollo backend y la creación de aplicaciones web funcionales.
+Frontend
+Next.js React Angular Tailwind CSS Bootstrap Radix UI
 
-## 🛠️ Habilidades técnicas  
-- **Go**: Desarrollo de APIs y lógica backend.  
-- **Angular + TypeScript**: Construcción de interfaces web conectadas a servicios backend.  
-- **HTML5, CSS3, Bootstrap**: Creación de interfaces responsivas y modernas.  
-- **MySQL**: Manejo de bases de datos relacionales para aplicaciones web.  
+Backend & APIs
+Go Next.js Axios
 
-## 📂 ¿Qué encontrarás aquí?  
-Proyectos donde aplico lo aprendido en el desarrollo de APIs, aplicaciones web y estructuras organizadas de código. Me gusta seguir aprendiendo y enfrentar nuevos retos en programación.
+Databases & ORM
+PostgreSQL MySQL Prisma Supabase
 
-## 🤝 Conectemos  
-Si te interesa colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡escribime!
+Tools & libraries
+React Query React Hook Form Zod i18next Git ESLint
 
-- 📫 **Email**: [fabricio20arg@gmail.com](mailto:fabricio20arg@gmail.com)  
-- 🌐 **LinkedIn**: [linkedin.com/in/fabricio-alvarez-rodríguez-88655b323](https://www.linkedin.com/in/fabricio-alvarez-rodr%C3%ADguez-88655b323)
+Compact icon view
 
+My Skills
+
+💼 What I work on
+I build full-stack web applications — from REST APIs and backend logic to responsive UIs connected to real databases. Recent work includes CRM systems with Next.js, React, Prisma, PostgreSQL, and Supabase, alongside projects using Go, Angular, and MySQL.
+
+I enjoy writing clean, organized code and keep learning new tools to solve real-world problems.
+
+📂 What you'll find here
+Projects where I apply what I've learned building APIs, web apps, and well-structured codebases. I like taking on new challenges and improving with every project.
+
+🤝 Let's connect
+If you'd like to collaborate, share ideas, or just talk about tech — reach out!
+
+📫 Email: fabricio20arg@gmail.com
+🌐 LinkedIn: linkedin.com/in/fabricio-alvarez-rodríguez-88655b323
