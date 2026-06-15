@@ -79,16 +79,6 @@ I enjoy writing clean, scalable, and maintainable code while continuously learni
 * 🧩 Clean architecture and best practices
 * 🚀 Personal projects and experiments
 
-Every repository represents an opportunity to learn, improve, and build something useful.
-
----
-
-## 📊 GitHub Stats
-
-![Fabricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
 ---
 
 ## 🤝 Let's Connect
